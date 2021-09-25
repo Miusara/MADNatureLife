@@ -1,0 +1,14 @@
+com/example/naturelife/Other.java
+ com.example.naturelife.Other
+com/example/naturelife/User.java
+ com.example.naturelife.User
+com/example/naturelife/MainActivity.java
+ com.example.naturelife.MainActivity
+ com.example.naturelife.MainActivity$1
+com/example/naturelife/BuildConfig.java
+ com.example.naturelife.BuildConfig
+com/example/naturelife/OtherAdmine.java
+ com.example.naturelife.OtherAdmine
+ com.example.naturelife.OtherAdmine$1
+ com.example.naturelife.OtherAdmine$2
+ com.example.naturelife.OtherAdmine$3

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">720961603125-gb16ocroip7j2d91lrqpj0pnnc60dth0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">720961603125</string>
+    <string name="google_api_key" translatable="false">AIzaSyBOGfA7u5Y91rkyM1Q5-mNBhS8U13kPoQo</string>
+    <string name="google_app_id" translatable="false">1:720961603125:android:421326a3e6401e500f937c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBOGfA7u5Y91rkyM1Q5-mNBhS8U13kPoQo</string>
+    <string name="google_storage_bucket" translatable="false">naturelife-9ce16.appspot.com</string>
+    <string name="project_id" translatable="false">naturelife-9ce16</string>
+</resources>
