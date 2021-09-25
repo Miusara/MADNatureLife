@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NatureLife</string>
+    <string name="address">Address</string>
+    <string name="username">User Name</string>
+    <string name="submit">Submit</string>
+    <string name="Email">Email</string>
+    <string name="NicNumber">Nic Number</string>
+    <string name="Password">Password</string>
+    <string name="Repassword">Retype password</string>
+    <string name="Accept">Accept</string>
+    <string name="accept">I accept  Terms of use and Privacy Policy</string>
+    <string name="Sign">Sign IN</string>
+    <string name="Other">Other Accessories</string>
+    <string name="code">Item Code</string>
+    <string name="Price">Price</string>
+    <string name="Title">Title</string>
+    <string name="description">Description</string>
+    <string name="Add">Add</string>
+    <string name="Update">Update</string>
+    <string name="Delect">Delect</string>
+</resources>
