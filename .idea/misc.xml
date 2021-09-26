@@ -3,6 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DELL/Desktop/MADNatureLife/app/src/main/res/layout/activity_admin_home.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/MADNatureLife/app/src/main/res/layout/activity_customer_home.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/MADNatureLife/app/src/main/res/layout/activity_main.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/DELL/Desktop/MADNatureLife/app/src/main/res/layout/activity_other_admine.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/DELL/Desktop/MADNatureLife/app/src/main/res/layout/activity_sleeping_bag_admin.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/DELL/Desktop/MADNatureLife/app/src/main/res/layout/activity_sleeping_bag_delete.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/MADNatureLife/app/src/main/res/layout/activity_sleeping_bag_list.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/MADNatureLife/app/src/main/res/layout/activity_sleeping_bag_update.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DELL/Desktop/MADNatureLife/app/src/main/res/layout/sleepingbagitem.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/MIYA BAKIRR/AndroidStudioProjects/NatureLife2/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/MIYA BAKIRR/AndroidStudioProjects/NatureLife2/app/src/main/res/layout/activity_other_admine.xml" value="0.2" />
       </map>

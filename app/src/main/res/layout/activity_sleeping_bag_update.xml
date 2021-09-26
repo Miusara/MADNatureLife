@@ -3,81 +3,63 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:layout_margin="10dp"
+    android:layout_height="match_parent"
     android:background="@drawable/background"
-    android:orientation="vertical"
-    tools:context=".OtherAdmine">
+    android:orientation="vertical">
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/txtupdateDrone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:text="@string/Other"
+        android:layout_margin="15pt"
+        android:text="Update Sleeping Bag Details"
         android:textAlignment="center"
-        android:textColor="#673AB7"
-        android:textSize="34sp"
-        android:textStyle="bold|italic" />
+        android:textSize="34sp" />
 
     <EditText
-        android:id="@+id/edtcodeBag"
+        android:id="@+id/etCodeUpdate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
+        android:layout_margin="8pt"
         android:ems="10"
-        android:hint="@string/code"
+        android:hint="@string/updatecode"
         android:inputType="textPersonName"
         android:minHeight="48dp" />
 
     <EditText
-        android:id="@+id/edtpriceBag"
+        android:id="@+id/etPriceUpdate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
+        android:layout_margin="8pt"
         android:ems="10"
-        android:hint="@string/Price"
+        android:hint="@string/updateprice"
         android:inputType="textPersonName"
         android:minHeight="48dp" />
 
     <EditText
-        android:id="@+id/edtTitleBag"
+        android:id="@+id/etTitleUpdate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
+        android:layout_margin="8pt"
         android:ems="10"
-        android:hint="@string/Title"
+        android:hint="@string/updatetitle"
         android:inputType="textPersonName"
         android:minHeight="48dp" />
 
     <EditText
-        android:id="@+id/edtDesBag"
+        android:id="@+id/etDesUpdate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
+        android:layout_margin="8pt"
         android:ems="10"
-        android:hint="@string/description"
+        android:hint="@string/updatedescription"
         android:inputType="textPersonName"
         android:minHeight="48dp" />
 
     <Button
-        android:id="@+id/btnAddBag"
+        android:id="@+id/btnUpdatedrone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:text="@string/Add" />
-
-    <Button
-        android:id="@+id/btnUpdateOther"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:text="@string/Update" />
-
-    <Button
-        android:id="@+id/btnDelectOther"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:text="@string/Delect" />
+        android:layout_margin="8pt"
+        android:text="@string/update" />
 </LinearLayout>

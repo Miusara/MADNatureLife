@@ -18,4 +18,23 @@
     <string name="Add">Add</string>
     <string name="Update">Update</string>
     <string name="Delect">Delect</string>
+    <string name="ithemcode">Ithem Code</string>
+    <string name="ithemprice">Ithem Price</string>
+    <string name="title">Title</string>
+
+    <string name="add">Add</string>
+    <string name="tent">Tent</string>
+    <string name="sleepingbag">Sleeping Bag</string>
+    <string name="cookingithem">Cooking Ithem</string>
+    <string name="otheraccosseries">Other Accosseries</string>
+    <string name="deletesleepingbag">Delete Sleeping Bag</string>
+
+    <string name="deleteithem">Delete Ithem</string>
+    <string name="describe">describe</string>
+    <string name="SOther">Sother</string>
+    <string name="updatecode">Update Code</string>
+    <string name="updateprice">Update Price</string>
+    <string name="updatetitle">Update Title</string>
+    <string name="updatedescription">Update Description</string>
+    <string name="update">Update</string>
 </resources>

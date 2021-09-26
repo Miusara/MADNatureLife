@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_sleeping_bag_delete);
         final EditText editnameU = findViewById(R.id.editnameU);
         final EditText editaddressU = findViewById(R.id.editaddressU);
         final EditText edtEmailU = findViewById(R.id.edtEmailU);
