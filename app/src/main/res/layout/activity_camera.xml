@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context=".Camera">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Camera Tripod"
+        android:textSize="24dp"
+        android:textStyle="bold|italic" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="match_parent"
+        android:layout_height="309dp"
+        android:layout_margin="10dp"
+        app:srcCompat="@drawable/camera" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="In photography, a tripod is a portable device used to support, stabilize and elevate a camera, a flash unit, or other videographic or observational/measuring equipment. All photographic tripods have three legs and a mounting head to couple with a camera. The mounting head usually includes a thumbscrew that mates to a female-threaded receptacle on the camera, as well as a mechanism to be able to rotate and tilt the camera when it is mounted on the tripod. Tripod legs are usually made to telescope, in order to save space when not in use. Tripods are usually made from aluminum, carbon fiber, steel, wood or plastic."
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Prize Rs.3500"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</LinearLayout>

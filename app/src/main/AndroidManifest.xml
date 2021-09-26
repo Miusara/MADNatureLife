@@ -9,9 +9,33 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NatureLife">
-
         <activity
-            android:name=".OtherAdmine"
+            android:name=".Updatecooking"
+            android:exported="true" />
+        <activity
+            android:name=".Deletecooking"
+            android:exported="true" />
+        <activity
+            android:name=".Camera"
+            android:exported="true" />
+        <activity
+            android:name=".ui.login.Camera"
+            android:exported="true"
+            android:label="@string/title_activity_camera" />
+        <activity
+            android:name=".Otheraccessories"
+            android:exported="true" />
+        <activity
+            android:name=".Chair"
+            android:exported="true" />
+        <activity
+            android:name=".Adminhome"
+            android:exported="true" />
+        <activity
+            android:name=".Homepage"
+            android:exported="true" />
+        <activity
+            android:name=".ad_cookingitem"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

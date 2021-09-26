@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/AsusVivoBook/Desktop/MADNatureLife/app/src/main/res/layout/activity_ad_cookingitem.xml" value="0.2" />
+        <entry key="..\:/Users/AsusVivoBook/Desktop/MADNatureLife/app/src/main/res/layout/activity_adminhome.xml" value="0.25" />
+        <entry key="..\:/Users/AsusVivoBook/Desktop/MADNatureLife/app/src/main/res/layout/activity_camera.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/AsusVivoBook/Desktop/MADNatureLife/app/src/main/res/layout/activity_chair.xml" value="0.2359375" />
+        <entry key="..\:/Users/AsusVivoBook/Desktop/MADNatureLife/app/src/main/res/layout/activity_deletecooking.xml" value="0.25" />
+        <entry key="..\:/Users/AsusVivoBook/Desktop/MADNatureLife/app/src/main/res/layout/activity_homepage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/AsusVivoBook/Desktop/MADNatureLife/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/AsusVivoBook/Desktop/MADNatureLife/app/src/main/res/layout/activity_other_admine.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/AsusVivoBook/Desktop/MADNatureLife/app/src/main/res/layout/activity_otheraccessories.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/AsusVivoBook/Desktop/MADNatureLife/app/src/main/res/layout/activity_updatecooking.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/AsusVivoBook/Desktop/MADNatureLife/app/src/main/res/layout/cookingitem.xml" value="0.25" />
         <entry key="..\:/Users/MIYA BAKIRR/AndroidStudioProjects/NatureLife2/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/MIYA BAKIRR/AndroidStudioProjects/NatureLife2/app/src/main/res/layout/activity_other_admine.xml" value="0.2" />
       </map>
