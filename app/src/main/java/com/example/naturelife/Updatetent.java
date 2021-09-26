@@ -46,7 +46,7 @@ public class Updatetent extends AppCompatActivity {
             }
         });
     }
-    private void UpdateDrone(String Tcode, String title, String price, String description) {
+    private void Updatetent(String Tcode, String title, String price, String description) {
 
         HashMap Drone = new HashMap();
         Drone.put("droneid",Tcode);
