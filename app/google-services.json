@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720961603125",
+    "project_id": "naturelife-9ce16",
+    "storage_bucket": "naturelife-9ce16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720961603125:android:421326a3e6401e500f937c",
+        "android_client_info": {
+          "package_name": "com.example.naturelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720961603125-gb16ocroip7j2d91lrqpj0pnnc60dth0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOGfA7u5Y91rkyM1Q5-mNBhS8U13kPoQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720961603125-gb16ocroip7j2d91lrqpj0pnnc60dth0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
