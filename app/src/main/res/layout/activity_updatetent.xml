@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context=".UpdateDrone">
+
+    <TextView
+        android:id="@+id/txtupdateDrone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8pt"
+        android:text="Update Tent Data"
+        android:textAlignment="center"
+        android:textColor="#020E49"
+        android:textSize="34sp" />
+
+    <EditText
+        android:id="@+id/updateTC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8pt"
+        android:ems="10"
+        android:hint="@string/updatTCode"
+        android:inputType="textPersonName"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/updateTP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8pt"
+        android:ems="10"
+        android:hint="@string/updateTprize"
+        android:inputType="textPersonName"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/updateTT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8pt"
+        android:ems="10"
+        android:hint="@string/updateTTile"
+        android:inputType="textPersonName"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/updateTD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8pt"
+        android:ems="10"
+        android:hint="@string/updateTdic"
+        android:inputType="textPersonName"
+        android:minHeight="48dp" />
+
+    <Button
+        android:id="@+id/updatebtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:text="@string/updatebtn" />
+</LinearLayout><?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Updatetent">
+
+</androidx.constraintlayout.widget.ConstraintLayout>

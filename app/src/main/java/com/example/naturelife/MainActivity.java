@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_tent_delete);
         final EditText editnameU = findViewById(R.id.editnameU);
         final EditText editaddressU = findViewById(R.id.editaddressU);
         final EditText edtEmailU = findViewById(R.id.edtEmailU);
@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 String name = editnameU.getText().toString().trim();
                 String address = editaddressU.getText().toString().trim();
-                DatabaseReference ref = database.getReference("user");
+                DatabaseReference ref = database.getReference("Tent");
                 User user = new User(name,address);
                 ref.child(name).setValue(user);
                 Toast.makeText(MainActivity.this,"Created Succussfully",Toast.LENGTH_SHORT).show();

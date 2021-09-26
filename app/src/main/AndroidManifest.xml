@@ -9,9 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NatureLife">
-
         <activity
-            android:name=".OtherAdmine"
+            android:name=".Updatetent"
+            android:exported="true" />
+        <activity
+            android:name=".TentDelete"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,6 +21,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Retrieve"
+            android:exported="true" />
+        <activity
+            android:name=".TentAdmin"
+            android:exported="true" />
     </application>
 
 </manifest>

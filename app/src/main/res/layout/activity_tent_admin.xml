@@ -4,19 +4,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_margin="10dp"
     android:background="@drawable/background"
     android:orientation="vertical"
-    tools:context=".OtherAdmine">
+    tools:context=".TentAdmin">
 
     <TextView
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:text="@string/Other"
+        android:text="@string/tent"
         android:textAlignment="center"
-        android:textColor="#673AB7"
+        android:textColor="#1B0149"
         android:textSize="34sp"
         android:textStyle="bold|italic" />
 
@@ -26,17 +25,19 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:ems="10"
-        android:hint="@string/code"
+        android:hint="@string/itemcode"
+        android:hintTextColor="#3E2723"
         android:inputType="textPersonName"
         android:minHeight="48dp" />
 
     <EditText
-        android:id="@+id/edtpriceOther"
+        android:id="@+id/itemprize"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:ems="10"
-        android:hint="@string/Price"
+        android:hint="@string/itemprizes"
+        android:hintTextColor="#263238"
         android:inputType="textPersonName"
         android:minHeight="48dp" />
 
@@ -46,7 +47,8 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:ems="10"
-        android:hint="@string/Title"
+        android:hint="@string/tenttitle"
+        android:hintTextColor="#424242"
         android:inputType="textPersonName"
         android:minHeight="48dp" />
 
@@ -56,7 +58,8 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:ems="10"
-        android:hint="@string/description"
+        android:hint="@string/tentdesription"
+        android:hintTextColor="#00695C"
         android:inputType="textPersonName"
         android:minHeight="48dp" />
 
@@ -64,20 +67,10 @@
         android:id="@+id/addButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:text="@string/Add" />
+        android:layout_margin="55dp"
+        android:background="#A80202"
+        android:backgroundTint="@color/design_default_color_error"
+        android:text="@string/Add"
+        app:iconTint="#B50000" />
 
-    <Button
-        android:id="@+id/btnUpdateOther"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:text="@string/Update" />
-
-    <Button
-        android:id="@+id/btnDelectOther"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:text="@string/Delect" />
 </LinearLayout>

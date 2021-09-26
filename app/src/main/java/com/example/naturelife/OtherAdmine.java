@@ -19,16 +19,16 @@ public class OtherAdmine extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        final EditText edtcodeOther = findViewById(R.id.edtcodeOther);
+        final EditText edtcodeOther = findViewById(R.id.edittentcode);
         final EditText edtpriceOther = findViewById(R.id.edtpriceOther);
-        final EditText edtTitleOther= findViewById(R.id.edtTitleOther);
-        final EditText edtDesOther = findViewById(R.id.edtDesOther);
+        final EditText edtTitleOther= findViewById(R.id.edittitle);
+        final EditText edtDesOther = findViewById(R.id.tentdesription);
 
 
 
         setContentView(R.layout.activity_other_admine);
 
-        Button btn1 = findViewById(R.id.btnAddOther);
+        Button btn1 = findViewById(R.id.addButton);
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

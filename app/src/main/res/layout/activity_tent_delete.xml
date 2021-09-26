@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+
+
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+
+    android:orientation="vertical"
+
+    tools:context=".DeleteDrone">
+
+
+    <TextView
+
+        android:id="@+id/txtDeletedrone"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_margin="10pt"
+
+        android:text="@string/deletetent"
+
+        android:textAlignment="center"
+
+        android:textColor="#EC001C"
+
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+    <EditText
+
+        android:id="@+id/tentcode"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_margin="10pt"
+
+        android:ems="10"
+
+        android:hint="@string/tentcode"
+
+        android:importantForAutofill="no"
+
+        android:inputType="textPersonName"
+
+        android:minHeight="48dp" />
+
+
+    <Button
+
+        android:id="@+id/btndelete"
+
+        android:layout_width="319dp"
+
+        android:layout_height="69dp"
+
+        android:layout_margin="50dp"
+        android:layout_marginTop="60dp"
+        android:text="@string/deletebutton" />
+
+
+</LinearLayout>

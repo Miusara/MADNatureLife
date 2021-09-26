@@ -18,4 +18,20 @@
     <string name="Add">Add</string>
     <string name="Update">Update</string>
     <string name="Delect">Delect</string>
+    <string name="itemcode">Item Code</string>
+    <string name="itemprize" />
+    <string name="itemprizes">Item Prizes</string>
+    <string name="tenttitle">Title</string>
+    <string name="tentdesription">Description</string>
+    <string name="tent">TENT</string>
+    <string name="deletetent">Delete Tent</string>
+    <string name="tentcode">Tent Code</string>
+    <string name="deletebutton">Delete</string>
+    <string name="updateTcode" />
+    <string name="updateTprize">Update Prize</string>
+    <string name="updateTtitle" />
+    <string name="updateTTile">Update Title</string>
+    <string name="updateTdic">Update Description</string>
+    <string name="updatebtn">Update</string>
+    <string name="updatTCode">Update Code</string>
 </resources>
